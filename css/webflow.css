@@ -1788,3 +1788,7 @@ textarea.w-select {
 .wf-layout-layout {
   display: grid;
 }
+
+.hide {
+  display: none;
+}
